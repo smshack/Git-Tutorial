@@ -47,4 +47,5 @@ int main(void){
 강조는 다음과 같이 할 수 있습니다
 
 **치킨**  먹다가 ~~두드러기~~ 났어요.
->>>>>>> 8bdffa2... Update README.md
+
+![깃로고](./image/gitlogo.png)
